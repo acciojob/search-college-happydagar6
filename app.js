@@ -62,5 +62,4 @@ app.get('/findColleges', async (req, res) => {
 });
 
 // solution end
-
 module.exports = { app };
